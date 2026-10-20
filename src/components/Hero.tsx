@@ -46,7 +46,7 @@ export default function Hero() {
       {/* Heading */}
       <h1
         style={{
-          fontFamily: "'Barlow Condensed', sans-serif",
+          fontFamily: "var(--font-barlow), sans-serif",
           fontSize: "clamp(68px, 14vw, 130px)",
           fontWeight: 900,
           lineHeight: 0.9,

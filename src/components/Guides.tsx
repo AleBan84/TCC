@@ -30,7 +30,7 @@ export default function Guides() {
         >
           <div
             style={{
-              fontFamily: "'Barlow Condensed', sans-serif",
+              fontFamily: "var(--font-barlow), sans-serif",
               fontSize: "clamp(28px, 5vw, 40px)",
               fontWeight: 900,
               textTransform: "uppercase",

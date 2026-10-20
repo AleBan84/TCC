@@ -35,7 +35,7 @@ export default function CommunityCTA() {
 
           <h2
             style={{
-              fontFamily: "'Barlow Condensed', sans-serif",
+              fontFamily: "var(--font-barlow), sans-serif",
               fontSize: "clamp(38px, 8vw, 72px)",
               fontWeight: 900,
               textTransform: "uppercase",

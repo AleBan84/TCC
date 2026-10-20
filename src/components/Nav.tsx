@@ -29,7 +29,7 @@ export default function Nav() {
         {/* Logo */}
         <div
           style={{
-            fontFamily: "'Barlow Condensed', sans-serif",
+            fontFamily: "var(--font-barlow), sans-serif",
             fontSize: "22px",
             fontWeight: 900,
             letterSpacing: "0.04em",

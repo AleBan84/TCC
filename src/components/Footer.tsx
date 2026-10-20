@@ -22,7 +22,7 @@ export default function Footer() {
       >
         <div
           style={{
-            fontFamily: "'Barlow Condensed', sans-serif",
+            fontFamily: "var(--font-barlow), sans-serif",
             fontSize: "18px",
             fontWeight: 900,
             letterSpacing: "0.04em",

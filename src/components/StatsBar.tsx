@@ -29,7 +29,7 @@ export default function StatsBar() {
           <div key={s.label}>
             <div
               style={{
-                fontFamily: "'Barlow Condensed', sans-serif",
+                fontFamily: "var(--font-barlow), sans-serif",
                 fontSize: "clamp(36px, 6vw, 52px)",
                 fontWeight: 900,
                 lineHeight: 1,

@@ -19,7 +19,7 @@ export default function Profiles() {
       >
         <div
           style={{
-            fontFamily: "'Barlow Condensed', sans-serif",
+            fontFamily: "var(--font-barlow), sans-serif",
             fontSize: "clamp(28px, 5vw, 40px)",
             fontWeight: 900,
             textTransform: "uppercase",
@@ -49,7 +49,7 @@ export default function Profiles() {
             >
               <div
                 style={{
-                  fontFamily: "'Barlow Condensed', sans-serif",
+                  fontFamily: "var(--font-barlow), sans-serif",
                   fontSize: "32px",
                   fontWeight: 900,
                   color: "#CCFF00",

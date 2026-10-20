@@ -37,7 +37,7 @@ export default function Pillars() {
       >
         <div
           style={{
-            fontFamily: "'Barlow Condensed', sans-serif",
+            fontFamily: "var(--font-barlow), sans-serif",
             fontSize: "clamp(28px, 5vw, 40px)",
             fontWeight: 900,
             textTransform: "uppercase",
@@ -68,7 +68,7 @@ export default function Pillars() {
               <div style={{ fontSize: "28px", lineHeight: 1 }}>{p.icon}</div>
               <div
                 style={{
-                  fontFamily: "'Barlow Condensed', sans-serif",
+                  fontFamily: "var(--font-barlow), sans-serif",
                   fontSize: "22px",
                   fontWeight: 900,
                   textTransform: "uppercase",
